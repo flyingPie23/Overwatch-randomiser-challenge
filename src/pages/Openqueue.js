@@ -1,5 +1,9 @@
 import '../stylesheets/index.css';
-import { Btn,Img } from "../components/components";
+import { Img } from "../components/components";
+import data from '../data/heros.json';
+
+
+
 
 function Card1(props) {
   return(
@@ -19,34 +23,34 @@ function Card2(props) {
   )
 }
 
-function Openqueue() {
+function randomiser() {
+  return Math.floor(Math.random() * 10);
+}
+
+
+function Openqueue(props) {
+
   return(
     <div className='container mx-auto px-6'>
-      <div className='w-full h-full py-4 my-4 bg-gray-dark/[0.9] border border-[#FFC0CB] rounded-md'>
+      <div className='w-full h-full py-4 my-4 bg-gray-dark/[0.9] border border-orange rounded-md'>
         <div className='flex justify-center'>
-          <Img src="https://d15f34w2p8l1cc.cloudfront.net/overwatch/e69a3d819fd46d0dcd1d9474c248a95e69519c20077c60e9de73a1e2d3acdbb6.png" class="h-[250px] border-[5px] border-[#FFC0CB] rounded-xl p-3"/>
+          <Img src={data.heros[0].icon} class={data.heros[0].iconClass}/>
         </div>
 
         <div className='flex justify-center my-[18px]'>
-          <a href="https://overwatch.blizzard.com/en-us/heroes/dva/" target="_blank">
-            <h1 className='text-[55px] font-bold text-center text-white'>D.VA</h1>
+          <a href={data.heros[0].link} target="_blank">
+            <h1 className='text-[55px] font-bold text-center text-white'>{data.heros[0].name}</h1>
           </a>
-
         </div>
 
         <div className='flex m-auto place-content-around'>
-          <Card1 icon="https://workshop.codes/assets/abilities/50/defense-matrix-0ed6fd68ffded690a6804a2c63bfa43ea393dd1eaf2f91aafcf5ddcec87a2469.png" imgClass="h-[30px] w-[30px]" text="negate 1 ultimate with Defense Matrix" textClass="text-[18px] text-center text-white mx-3 px-3 text-end" cardClass="flex border-[5px] border-[#FFC0CB] rounded-xl w-[320px] p-3"/>
+          <Card1 icon={data.heros[0].challanges[0].icon} imgClass={data.heros[0].challanges[0].iconClass} text={data.heros[0].challanges[0].text} textClass={data.heros[0].challanges[0].textClass} cardClass={data.heros[0].challanges[0].cardClass}/>
 
-          <Btn href="#" name={<Img src="https://www.svgrepo.com/show/520693/dice.svg" class="h-[50px] w-[50px] mx-auto my-[12px]"/>} class="bg-orange hover:bg-orange-dark p-2 rounded-md border-[2px] border-[#FFC0CB] w-[100px] "/>
+          <a href="#" class="bg-orange hover:bg-orange-dark p-2 rounded-md border-[2px] border-[#FFC0CB] w-[100px] "> <Img src="https://www.svgrepo.com/show/520693/dice.svg" class="h-[50px] w-[50px] mx-auto my-[12px]"/></a>
 
-          <Card2 icon="https://workshop.codes/assets/abilities/50/self-destruct-9e57bdc7abb806c1f9be9d4de088cb271e290e355c82c7e725d1c76a58057875.png" imgClass="h-[30px] w-[30px]" text="Get a 4k with Self-Destruct" textClass="text-[18px] text-center text-white mx-3 px-3 text-end" cardClass="flex border-[5px] border-[#FFC0CB] rounded-xl w-[320px] p-3"/>
+          <Card2 icon={data.heros[0].challanges[1].icon} imgClass={data.heros[0].challanges[1].iconClass} text={data.heros[0].challanges[1].text} textClass={data.heros[0].challanges[1].textClass} cardClass={data.heros[0].challanges[0].cardClass}/>
         </div>
-
-
-
-
       </div>
-
     </div>
   )
 }

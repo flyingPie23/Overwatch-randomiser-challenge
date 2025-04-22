@@ -3,7 +3,7 @@ function Img(props) {
 }
 
 function Btn(props) {
-  return <a href={props.href} target={props.target} className={props.class}>{props.name}</a>
+  return <a href={props.href} target={props.target} onClick={props.click} className={props.class}>{props.name}</a>
 
 }
 

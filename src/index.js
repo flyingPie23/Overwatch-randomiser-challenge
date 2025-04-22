@@ -8,6 +8,9 @@ import App from './pages/App.js';
 import Openqueue from './pages/Openqueue.js'
 import Nav from './components/Nav.js'
 import reportWebVitals from './reportWebVitals';
+import data from './data/heros.json';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,7 +19,7 @@ root.render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/openqueue" element={<Openqueue />} />
+        <Route path="/openqueue" element={<Openqueue hero={data.heros[1]} />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
