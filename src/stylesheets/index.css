@@ -10,4 +10,5 @@ body{
   background-image: url("https://images.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt4df2b92421b1ea3f/638810d75148880e83ab70d7/winston-02.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }

@@ -1,15 +1,9 @@
 import '../stylesheets/index.css';
-import  Nav from "../components/Nav.js";
-function Btn(props) {
-  return <a href={props.href} className={props.class}>{props.name}</a>
-
-}
+import { Btn,Img } from "../components/components";
 
 function App() {
   return (
     <div className='container mx-auto px-6'>
-      <Nav />
-
       <div className='w-full h-full py-4 my-4 bg-gray-dark/[0.9] border rounded-md'>
         <h1 className="text-3xl font-bold text-white text-center mb-6">
           Overwatch Randomiser Challenge
@@ -22,7 +16,9 @@ function App() {
         <div className='flex mx-auto px-[450px] place-content-between'>
           <Btn href="#" name="Role Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md" />
 
-          <Btn href="#" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
+          <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png  " class="h-6"/>
+
+          <Btn href="/openqueue" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
         </div>
       </div>
     </div>
