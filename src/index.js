@@ -19,7 +19,7 @@ root.render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/openqueue" element={<Openqueue hero={data.heros[1]} />} />
+        <Route path="/openqueue" element={<Openqueue char={data.heros} />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
