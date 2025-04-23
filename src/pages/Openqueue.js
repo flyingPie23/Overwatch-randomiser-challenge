@@ -4,9 +4,6 @@ import { Img } from "../components/components";
 
 import { useState } from 'react';
 
-
-
-
 function Card1(props) {
   return(
     <div className={props.cardClass}>
@@ -42,7 +39,7 @@ function Openqueue(props) {
     <div className='container mx-auto px-6'>
       <div className='w-full h-full py-4 my-4 bg-gray-dark/[0.9] border border-orange rounded-md'>
         <div className='flex justify-center'>
-          <Img src={props.char[hero].icon} class={props.char[hero].iconClass}/>
+          <Img src={props.char[hero].icon} class="h-[250px] border-[5px] border-orange rounded-xl p-3"/>
         </div>
 
         <div className='flex justify-center my-[18px]'>
@@ -52,11 +49,11 @@ function Openqueue(props) {
         </div>
 
         <div className='flex m-auto place-content-around'>
-          <Card1 icon={props.char[hero].challanges[0].icon} imgClass={props.char[hero].challanges[0].iconClass} text={props.char[hero].challanges[0].text} textClass={props.char[hero].challanges[0].textClass} cardClass={props.char[hero].challanges[0].cardClass}/>
+          <Card1 icon={props.char[hero].challanges[0].icon} imgClass="h-[55px] w-[55px]" text={props.char[hero].challanges[0].text} textClass={"text-[16px] text-center text-white mx-3 px-3 text-end"} cardClass="flex border-[5px] border-orange rounded-xl w-[320px] p-3"/>
 
-          <a onClick={handleClick} href="#" class="bg-orange hover:bg-orange-dark p-2 rounded-md border-[2px] border-[#FFC0CB] w-[100px] "> <Img src="https://www.svgrepo.com/show/520693/dice.svg" class="h-[50px] w-[50px] mx-auto my-[12px]"/></a>
+          <a onClick={handleClick} href="#" class="bg-orange hover:bg-orange-dark p-2 rounded-md border-[2px] border-white w-[100px] text-center text-white h-[55px] "> Re-Roll</a>
 
-          <Card2 icon={props.char[hero].challanges[1].icon} imgClass={props.char[hero].challanges[1].iconClass} text={props.char[hero].challanges[1].text} textClass={props.char[hero].challanges[1].textClass} cardClass={props.char[hero].challanges[0].cardClass}/>
+          <Card2 icon={props.char[hero].challanges[1].icon} imgClass="h-[55px] w-[55px]" text={props.char[hero].challanges[1].text} textClass={"text-[16px] text-center text-white mx-3 px-3 text-end"} cardClass="flex border-[5px] border-orange rounded-xl w-[320px] p-3"/>
         </div>
       </div>
     </div>
