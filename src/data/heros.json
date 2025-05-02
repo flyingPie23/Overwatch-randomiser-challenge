@@ -14,7 +14,7 @@
 
         {
           "icon":"https://workshop.codes/assets/abilities/50/self-destruct-9e57bdc7abb806c1f9be9d4de088cb271e290e355c82c7e725d1c76a58057875.png",
-          "text":"Get a 4k with Self-Destruct"
+          "text":"Get a 4 kills with one use of Self-Destruct"
         }
       ]
     },
@@ -27,13 +27,33 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/seismic-slam-4f46c188eab913a139e7dc06b20374c1a88a273abdaf99dea7941ef9016c7fa6.png",
 
-          "text": "Knock someone off the map"
+          "text": "Knock somebody off the map"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/rocket-punch-cdf70df28ab5da6c31ec29233c21615f6c30904989c720ee47354d26e3a7d581.png",
 
           "text": "4 Rocket Punch kills without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Hazard",
+      "role": "tank",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/hazard/",
+      "icon": "https://tiermaker.com/images/media/template_images/2024/344262/overwatch-renders-344262/zzzzz-1733863560e1.png",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/spike-guard-5309142623f6a242def5e594c8c80e694af291951baf9aada4ddba3e205cb426.png",
+
+          "text": "Get 2 kills with Spike Guard"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/downpour-ebf2d5a9909cc076c1ec1087fba1c18cdcbcb836d60dab40becae0c1a6a2f602.png",
+
+          "text": "Capture 3 people with one use of Downpour"
 
         }
       ]
@@ -47,13 +67,33 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/carnage-143c811ac47f05b47ea76df27dbf518bceb8ac80aed7586db6f88a10c8274d54.png",
 
-          "text": ""
+          "text": "Get 5 Carnage kills without dying"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/rampage-7f000e507557af3591ebc1a0d7748927446ff97847a4e97dbed8ec3f474ee5bd.png",
 
-          "text": ""
+          "text": "2 kills in a single use of Rampage"
+
+        }
+      ]
+    },
+    {
+      "name": "Mauga",
+      "role": "tank",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/mauga/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmauga.45e34ff0.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/cage-fight-07d56dd4234e8adad05bebda5973ac87ca87f79de8df8c6d1507bfbe35880d50.png",
+
+          "text": "Trap 4 people in one use of Cage Fight"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/cardiac-overdrive-451100406ff16c9aee52337ab0e14fd3c2e8a4d114d6e4417f63ce7e5652d5c6.png",
+
+          "text": "accumulate 1000+ overhealth in one game"
 
         }
       ]
@@ -67,13 +107,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/energy-javelin-340bd658079d4cbad37cef42a0bea4782f577c728cf3a3b41cde139f003980db.png",
 
-          "text": ""
+          "text": "Knock somebody off the map with Energy Javelin"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/terra-surge-544ff875ee3db58faac8b9bf88a2f5b28decb3987a2f177360d25ad17dd6bb2f.png",
 
-          "text": ""
+          "text": "Get 3 kills with one use of Terra Surge"
 
         }
       ]
@@ -87,13 +127,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/ravenous-vortex-e0d7f28a75b016cedc8b678424c1244f6df6df703a2f354fcc87f466d00a9252.png",
 
-          "text": ""
+          "text": "Get 4 Ravenous Vortex Kills"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/nemesis-form-b9195a33bb29a63a39d73f543eaa673ba7d88db01fd35d9790192263f6e1d8ca.png",
 
-          "text": ""
+          "text": "Get 12 Pummel kills without dying"
 
         }
       ]
@@ -107,13 +147,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/charge-ed3f955ba17398afc4cf5de19e86b86cff83f198ecf4064271ae76f11e30e105.png",
 
-          "text": ""
+          "text": "Pin somebody off the map"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/earthshatter-b697139f1b8f98497c0db515bdc7538b36d3ee9cdba4b465c4aaae3fdac167ef.png",
 
-          "text": ""
+          "text": "Stun 4 poeple with one use of Earthshatter"
 
         }
       ]
@@ -127,13 +167,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/whole-hog-37e61ac8ee95884719296e74c79ee7c29e830d9c3d37d6b02e6c55a66b8953ab.png",
 
-          "text": ""
+          "text": "Knock somebody off the map with Whole Hog or Chain Hook"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/chain-hook-a6bf6b1dc53d1ed33744ca0234e7e1b714a06e5ba6668dfda4b213770b9b8fd9.png",
 
-          "text": ""
+          "text": "Interupt 1 Ultimate with Chain hook"
 
         }
       ]
@@ -147,13 +187,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/accretion-07d6812fd3836ef407b8ccd0f1b1ceb4570e215b097d911cc511605734242d7f.png",
 
-          "text": ""
+          "text": "Negate 1 ultimate with Kinetic Grasp or Accertion  "
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/gravitic-flux-d61b545bae4cf8810721afe438fae49251653fb0225a4bb815392c0998ae49d2.png",
 
-          "text": ""
+          "text": "Capture 3 people with one use of Gravitic Flux"
 
         }
       ]
@@ -167,13 +207,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/jump-pack-bcc092beec21b957e94b11ce32570fb1866861ba1c10fc80d69ca21071622ff2.png",
 
-          "text": ""
+          "text": "Get 3 Jump Pack kills"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/primal-rage-2829fa142d8c59594e686f607af6a517d65de81bfd303de811b2a5d82ef1b4bc.png",
 
-          "text": ""
+          "text": "Get 3 kills with one use of Primal Rage"
 
         }
       ]
@@ -185,15 +225,15 @@
       "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwrecking-ball.d60d9338.png&w=3840&q=100",
       "challanges": [
         {
-          "icon": "https://workshop.codes/assets/abilities/50/primal-rage-2829fa142d8c59594e686f607af6a517d65de81bfd303de811b2a5d82ef1b4bc.png",
+          "icon": "https://workshop.codes/assets/abilities/50/piledriver-b7b7bb89422f31afa30aaf0a5d3a0fe3b67b903299389c1389b268b9e0197cc7.png",
 
-          "text": ""
+          "text": "Get 6 piledriver kills"
 
         },
         {
-          "icon": "https://workshop.codes/assets/abilities/50/piledriver-b7b7bb89422f31afa30aaf0a5d3a0fe3b67b903299389c1389b268b9e0197cc7.png",
+          "icon": "https://workshop.codes/assets/abilities/50/minefield-2ce40a31843f7cae25cccc90c1b94722d10d19a2fa9380f52c5c74f4d7229dd7.png",
 
-          "text": ""
+          "text": "Get 3 kills with one use of Minefeild"
 
         }
       ]
@@ -207,13 +247,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/graviton-surge-ae61df2baf6266144e871fadf7d379e6559196e893a22409b8335f41daeaf72f.png",
 
-          "text": ""
+          "text": "Capture 4 people with one use of Graviton Surge"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/energy-a11c9358d73092ff20caa77d05e868d4f647c9e5210fc3ea69fb1aedf8fbdf41.png",
 
-          "text": ""
+          "text": "Get 4 high Energy Kills"
 
         }
       ]

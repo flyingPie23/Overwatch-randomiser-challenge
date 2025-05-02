@@ -1,26 +1,10 @@
 import '../stylesheets/index.css';
-import { Img } from "../components/components";
+import { Img, Card1, Card2 } from "../components/components";
 
 
 import { useState } from 'react';
 
-function Card1(props) {
-  return(
-    <div className={props.cardClass}>
-       <Img src={props.icon} class={props.imgClass}/>
-       <p className={props.textClass}> {props.text}</p>
-    </div>
-  )
-}
 
-function Card2(props) {
-  return(
-    <div className={props.cardClass}>
-       <p className={props.textClass}> {props.text}</p>
-       <Img src={props.icon} class={props.imgClass}/>
-    </div>
-  )
-}
 
 function Openqueue(props) {
 

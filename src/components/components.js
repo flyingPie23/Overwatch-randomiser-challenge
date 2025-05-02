@@ -7,4 +7,22 @@ function Btn(props) {
 
 }
 
-export { Img, Btn };
+function Card1(props) {
+  return(
+    <div className={props.cardClass}>
+       <Img src={props.icon} class={props.imgClass}/>
+       <p className={props.textClass}> {props.text}</p>
+    </div>
+  )
+}
+
+function Card2(props) {
+  return(
+    <div className={props.cardClass}>
+       <p className={props.textClass}> {props.text}</p>
+       <Img src={props.icon} class={props.imgClass}/>
+    </div>
+  )
+}
+
+export { Img, Btn, Card1, Card2 };
