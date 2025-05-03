@@ -13,7 +13,7 @@ function Openqueue(props) {
   const handleClick = () => {
     let newHero;
     do {
-      newHero = Math.floor(Math.random() * 11);
+      newHero = Math.floor(Math.random() * props.char.length);
     } while (newHero === hero);
     setHero(newHero);
   };
