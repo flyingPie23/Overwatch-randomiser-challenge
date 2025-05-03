@@ -8,10 +8,12 @@ function App() {
 
   const toggleOn = () => {
     setAlert("");
+    console.log(alert)
   };
 
   const toggleOff = () => {
     setAlert("hidden");
+    console.log(alert)
   };
 
   return (
@@ -26,7 +28,7 @@ function App() {
         </p>
 
         <div className='flex mx-auto px-[450px] place-content-between'>
-          <Btn Click={toggleOn} href="#" name="Role Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md" />
+          <Btn click={toggleOn} href="#" name="Role Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md" />
 
           <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png  " class="h-6"/>
 
