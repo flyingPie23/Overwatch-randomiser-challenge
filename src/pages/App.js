@@ -20,7 +20,10 @@ function App() {
 
           <Btn href="/openqueue" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
         </div>
+
       </div>
+
+
     </div>
   );
 }
