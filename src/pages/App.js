@@ -27,7 +27,7 @@ function App() {
           This is a fun Overwatch Challenge we have been running with some friends, it goes like this. First you get to play a random OW hero and must try to get a POTG with them. While also trying to complete two challenges attached to each character for bonus points! This challenge has been a fun and we made this website to share with you! So if you wanna give it a try just click down here and of course GLHF :)
         </p>
 
-        <div className='flex mx-auto px-[450px] place-content-between'>
+        <div className='flex px-[450px] place-content-between'>
           <Btn click={toggleOn} href="#" name="Role Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md" />
 
           <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png  " class="h-6"/>
