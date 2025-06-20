@@ -32,7 +32,7 @@ function App() {
 
           <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png  " class="h-6"/>
 
-          <Btn  href="/#/openqueue" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
+          <Btn  href="/#/openqueue/Overwatch-randomiser-challenge/#/openqueue" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
         </div>
 
       </div>
