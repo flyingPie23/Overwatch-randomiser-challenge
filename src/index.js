@@ -18,8 +18,8 @@ import patches from './data/patchnotes.json';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Nav />
     <HashRouter>
+      <Nav />
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/openqueue" element={<Openqueue char={heros.heros} />} />
