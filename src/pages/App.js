@@ -30,9 +30,9 @@ function App() {
         <div className='flex mx-auto px-[450px] place-content-between'>
           <Btn click={toggleOn} href="#" name="Role Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md" />
 
-          <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png  " class="h-6"/>
+          <Img src="https://www.freepnglogos.com/uploads/overwatch-logo-white-15.png" class="h-6"/>
 
-          <Btn  href="/Overwatch-randomiser-challenge/#/openqueue" name="Open Queue"class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
+          <Btn  href="/Overwatch-randomiser-challenge/#/openqueue" name="Open Queue" class="font-bold text-white bg-orange hover:bg-orange-dark p-1 rounded-md"/>
         </div>
 
       </div>
