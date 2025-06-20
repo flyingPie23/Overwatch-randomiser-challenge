@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Overwatch-randomiser-challenge/static/css/main.46ad318f.css",
-    "main.js": "/Overwatch-randomiser-challenge/static/js/main.718e44ae.js",
+    "main.js": "/Overwatch-randomiser-challenge/static/js/main.4c44ebca.js",
     "static/js/453.99624aab.chunk.js": "/Overwatch-randomiser-challenge/static/js/453.99624aab.chunk.js",
     "index.html": "/Overwatch-randomiser-challenge/index.html",
     "main.46ad318f.css.map": "/Overwatch-randomiser-challenge/static/css/main.46ad318f.css.map",
-    "main.718e44ae.js.map": "/Overwatch-randomiser-challenge/static/js/main.718e44ae.js.map",
+    "main.4c44ebca.js.map": "/Overwatch-randomiser-challenge/static/js/main.4c44ebca.js.map",
     "453.99624aab.chunk.js.map": "/Overwatch-randomiser-challenge/static/js/453.99624aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46ad318f.css",
-    "static/js/main.718e44ae.js"
+    "static/js/main.4c44ebca.js"
   ]
 }
