@@ -20,8 +20,8 @@ function Openqueue(props) {
 
 
   return(
-    <div className='container mx-auto px-6'>
-      <div className='w-full h-full py-4 my-4 bg-gray-dark/[0.9] border border-orange rounded-md'>
+    <div className='container mx-auto px-6 '>
+      <div className='w-full h-[600px] py-4 my-4 bg-gray-dark/[0.9] border border-orange rounded-md'>
         <div className='flex justify-center'>
           <Img src={props.char[hero].icon} class="h-[250px] border-[5px] border-orange rounded-xl p-3"/>
         </div>

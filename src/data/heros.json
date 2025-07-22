@@ -93,7 +93,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/cardiac-overdrive-451100406ff16c9aee52337ab0e14fd3c2e8a4d114d6e4417f63ce7e5652d5c6.png",
 
-          "text": "accumulate 1000+ overhealth in one game"
+          "text": "accumulate 1k+ overhealth in one game"
 
         }
       ]
@@ -254,6 +254,226 @@
           "icon": "https://workshop.codes/assets/abilities/50/energy-a11c9358d73092ff20caa77d05e868d4f647c9e5210fc3ea69fb1aedf8fbdf41.png",
 
           "text": "Get 4 high Energy Kills"
+
+        }
+      ]
+    },
+    {
+      "name": "Ana",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/ana/",
+      "icon": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/overwatch-2/4/48/Ana_Icon_Classic.png",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/nano-boost-4985d447cfb94f8b31755b7db41ff7b44264a73f47627d0575acb3219a1de3eb.png",
+
+          "text": "3 assists with 1 one use of Nano Boost"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/sleep-dart-c328e9c6bc80d274557cc3fab3f33d3664226b9508e758164ca96c258a8c46c4.png",
+
+          "text": "Negate 1 ultimate with Sleep Dart"
+
+        }
+      ]
+    },
+    {
+      "name": "Baptist",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/baptiste/",
+      "icon": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/overwatch-2/b/bf/Baptiste_Icon_Classic.png?width=325",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/immortality-field-7dc26800549a3ede9616afffd1174936b3f17d070af4089db3232754de0a588d.png",
+
+          "text": "save 3 people with one use of immortality Feild"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/amplification-matrix-7ced3f27f1bac838f466bc522d711321768aaa6d4446a2506f1c3de5cc742dda.png",
+
+          "text": "4 kills/assists with one use of Amplification Matrix"
+
+        }
+      ]
+    },
+    {
+      "name": "Brigitte",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/brigitte/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/48392820c6976ee1cd8dde13e71df85bf15560083ee5c8658fe7c298095d619a.png",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/rally-4adaa01a166f618932e61ff0a9ab271c4f635e6812b1a0292ddb551c383795cc.png",
+
+          "text": "Negate 1 ultimate with Rally"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/inspire-ed8090e3466c41e1f5684bbfe9d3d76b69df741628cce24f80a5ce9b7ac2e287.png",
+
+          "text": "Keep a Inspire Uptime above 40%"
+
+        }
+      ]
+    },
+    {
+      "name": "Illari",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/illari/",
+      "icon": "https://tiermaker.com/images/template_images/2022/16096945/overwatch-2-heroes--illari-16096945/illari.png",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/outburst-4692b1f132230afcad78999b941d914ead2b749381f50683a1108560ebae022d.png",
+
+          "text": "Knock somebody off the map with Outburst"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/captive-sun-b2b4882bfaea66d63d2a9cf22360fd699c5ea1661292080b93c38ced8a470f21.png",
+
+          "text": "Get 3 kills with one use of Captive Sun"
+
+        }
+      ]
+    },
+    {
+      "name": "Juno",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/juno/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjuno.ebbdb1d3.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/orbital-ray-c49cc9060d39721a76bc25e2d29b56bcf8938d9bae85d150763548cf840a1795.png ",
+
+          "text": "4 assists with one use of Orbital ray"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/pulsar-torpedoes-83e247e9c134cb1bdbf8e8c7ce8d25a875513dd027176ea320fed26a4ae75662.png",
+
+          "text": "deal 2k damage and heal with Pulsar Torpedoes"
+
+        }
+      ]
+    },
+    {
+      "name": "Kiriko",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/kiriko/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkiriko.2464e6a1.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/protection-suzu-cc99e3f308d826cba6e44ca4547a53ce78647bde09074ec84edb80f65ed3d9d0.png",
+
+          "text": "clense 3 negative effects without dying"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/kitsune-rush-8c559f9d28375123ed1eefef1651cbec6fccbf6bc8d6edb47c801ce22aa23199.png",
+
+          "text": "4 kills/assists with one use of Kitsune Rush"
+
+        }
+      ]
+    },
+    {
+      "name": "Lifeweaver",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/lifeweaver/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flifeweaver.e81d7dc5.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/life-grip-bc46a6d10d4104a7281bd37c09c0c88b7887c036e4109a21e5ba9ec681abce5b.png",
+
+          "text": "Prevent an ally death with Life Grip"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/tree-of-life-ca3eb6a57709b0fdb9bd7552255cda90da8054dbf321720337bb395a53b1e398.png",
+
+          "text": "accumulate 2k+ tree of life healing"
+
+        }
+      ]
+    },
+    {
+      "name": "Lucio",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/lucio/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flucio.9fd9e6ae.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/soundwave-4bb55c5a7a36b10f7bd7601277aa8ef2eb01b2c446bf6a00707f35da1191a19a.png",
+
+          "text": "Boop somebody off the map with Soundwave"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/sound-barrier-e8d73565cc21a9e60ec094036be44ef856018e340b0aacfdb87109aa32fcedfe.png",
+
+          "text": "affect 12 allies with Sound Barrier"
+
+        }
+      ]
+    },
+    {
+      "name": "Mercy",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/mercy/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2508ddd39a178d5f6ae993ab43eeb3e7961e5a54a9507e6ae347381193f28943.png",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/valkyrie-13fa47c1df7a5bed3ec44182fd221e23fd771b2168a8c969b630996276dd5f37.png",
+
+          "text": "Get 3 kills with one use of Valkyrie"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/resurrect-ad162b91241dbf5a07ce8eb973a6046fbe14d78e2d30469c19327579a64ca2cb.png",
+
+          "text": "Resurrect 4 allies without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Moira",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/moira/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmoira.63c6ec77.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/coalescence-b2cdecbc490c441c787bc3f35af16d28ef2fced31924b83b52a9b28dbfe97ec5.png",
+
+          "text": "Get 3 Jump kills with one use of Coalescence"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/biotic-orb-e3b5a8b461ba95ba9022a7bde45aea66ad536b37ca7eaf737443a81670ba7a4e.png",
+
+          "text": "Save 5 allies without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Zenyatta",
+      "role": "support",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/zenyatta/",
+      "icon": "https://i.namu.wiki/i/ApvM-8xr3cKw_WtYuWukr7esK0Urf2mv3EJVxc5NvLixuhDgNpXC-cvj2KSYY9_DTaxOjwNPdI8nvjhXWUt9ow.webp",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/snap-kick-ef609f90f8bef183a7c69e38a389f20d5a290d4b576715e39d353b018f7c27b1.png",
+
+          "text": "Get 3 Snap Kicks kills without dying"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/orb-of-destruction-a23990bbb7c851fb0befb19d25c4425c7618c4cca8ad2f76880aa7f01e454692.png",
+
+          "text": "Get 3 Charged Orb Kills without dying"
 
         }
       ]

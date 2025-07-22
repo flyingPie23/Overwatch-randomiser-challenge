@@ -13,6 +13,7 @@ import reportWebVitals from './reportWebVitals';
 import heros from './data/heros.json';
 import patches from './data/patchnotes.json';
 
+//console.log(heros.heros.filter((hero) => hero.role === "dps"))
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
