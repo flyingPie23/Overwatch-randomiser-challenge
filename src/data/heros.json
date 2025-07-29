@@ -477,6 +477,385 @@
 
         }
       ]
+    },
+    {
+      "name": "Ash",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/ashe/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fashe.14d6b98f.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/coach-gun-be10f97bbd38573caed166ef67b312c10cf65435ea10f2faa927db05f6344a9a.png",
+
+          "text": "3 kills with Coach gun without dying"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/bob-29de5a18bb66c16215a64b8b2ffa23f3b83691b870e4c15997affeb61e05239a.png",
+
+          "text": "Get 3 kills with one use of B.O.B"
+
+        }
+      ]
+    },
+    {
+      "name": "Bastion",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/bastion/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbastion.04ed39ed.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/a-36-tactical-grenade-5080fec6b0a708ef0e370abe0298743031f06db8e91d68e4a29a54bb23a566c6.png",
+
+          "text": "Get 4 kills with A-36 Grenade"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/configuration-artillery-a6fef172b263c55a5cab90012e04b99f36c5e28fd72a479c02a714890836f906.png",
+
+          "text": "Get 3 kills with one use of Configuration: Artilery"
+
+        }
+      ]
+    },
+    {
+      "name": "Cassidy",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/cassidy/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcassidy.9bd90c59.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/magnetic-grenade-d7059c68023ba821d396f02866ece63dca0967a4c285dcc95849dd356835f4db.png",
+
+          "text": "Get 3 kills with Flash grenade without dying"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/deadeye-81184852c16500df50d9a6749aab8abae438b70dff7314022274657a6a2adeba.png",
+
+          "text": "Get 3 kills with one use of Deadeye"
+
+        }
+      ]
+    },
+    {
+      "name": "Echo",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/echo/",
+      "icon": "https://www.overbuff.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fecho.ccb1790c.png&w=3840&q=100",
+      "challanges": [
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/duplicate-e0aa5c87fcdeeb3d543b3121ffcf999662040a65aa6c33554d187944f6148726.png",
+
+          "text": "Ult as the hero you used Duplicate one"
+
+        },
+        {
+          "icon": "https://workshop.codes/assets/abilities/50/focusing-beam-9d42b381af2e16528aef5199fbbc5349f7131b2191b9e8818def8d9668495165.png",
+
+          "text": "Get 4 solo kills"
+
+        }
+      ]
+    },
+    {
+      "name": "Freja",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/freja/",
+      "icon": "https://i.namu.wiki/i/rdhYXewQiPcA9JnivaICt1hRglYg7sAiL3iiCb9FozvRrRKwMe3WASQ-AuFKL_okXUqtfIJ5ZA7PA6GLIrIMow.webp",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/53a75b176e685b58e16bdb357c1cb5bfa39cdc529deda83605f0163b69e871ce.png",
+
+          "text": "Use 5 Bolta Shots in one game"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/80a174c6c51aeabed75dee082af9b3a095881520035a9c6896205bfed3d630c3.png",
+
+          "text": "Get 3 kills with Take aim without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Genji",
+      "role": "DPS",
+      "link": "",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4edf5ea6d58c449a2aeb619a3fda9fff36a069dfbe4da8bc5d8ec1c758ddb8dc.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9e46bda733749ddd6512b61c021b4487b6201338a9ff39c716e4ee06e5d63a58.png",
+
+          "text": "Get 1 Deflect kill"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a6639d5240b77967a734fc5e2af960fd38dccd834430a4a3409add345bb7e21e.png",
+          "text": "Get 5 Swift strike skills without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Hanzo",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/hanzo/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aecd8fa677f0093344fab7ccb7c37516c764df3f5ff339a5a845a030a27ba7e0.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f2d63b8f0e19e91d2c1199ed3ac0f20bb180dabe9ad1ffc7d1f1e880e58f0220.png",
+
+          "text": "Get 3 kills with one use of Dragonstrike"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/92c56621ba267d94f16baacda3f10ba7777b475935981b02e5026449d8e3d79c.png",
+
+          "text": "Get 5 kills with Storm arrows without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Junkrat",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/junkrat/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/037e3df083624e5480f8996821287479a375f62b470572a22773da0eaf9441d0.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82e123991088b3c13edb1158d0bc4281f752896f8f3ddb76d4e3407e8f52f88d.png",
+
+          "text": "Get 2 kills with Total Mayhem in one game"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d16b5c6c337b1c0ecee3e5bf0760c870927e921fed8f0caed12dcb996b5347ae.png",
+
+          "text": "Get 3 kills with one use of Rip-tire"
+
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "role": "DPS",
+      "link": "",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1533fcb0ee1d3f9586f84b4067c6f63eca3322c1c661f69bfb41cd9e4f4bcc11.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3fb870976b613ebbec89c714027fbaec55d9f3d83e5e5b10def45330183f26c2.png",
+
+          "text": "Catch 4 poeple in one use of Blizzard"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f6f46800518e2c84fe2dc660e8506ac0dc9e94bc2aa4ba3268073ae33f3139d6.png",
+
+          "text": "Protect your team from an ult with Ice wall"
+
+        }
+      ]
+    },
+    {
+      "name": "Pharah",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/pharah/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f8261595eca3e43e3b37cadb8161902cc416e38b7e0caa855f4555001156d814.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9747b440730824756ae2d17e4d1f38468f36c985c35f56cf1f175a613279479a.png",
+
+          "text": "Knock somebody off the map with Concusive blast"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0708775beda1d200b586ae1d019522ea5ad8baa9bdcbbe076854102830f9fdae.png",
+
+          "text": "Get 4 kills with one use of Barrage"
+
+        }
+      ]
+    },
+    {
+      "name": "Reaper",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/reaper/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2edb9af69d987bb503cd31f7013ae693640e692b321a73d175957b9e64394f40.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/21fb34e5a009987c73f686336cd61d4e4b771a8a2d9b6753e62f65b41e6b6c51.png",
+
+          "text": "Get 3 Solo kills without dying"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e35595575880a304e14d427a0f9f5f04dc0886ba0f4cadd731ac935174f031e2.png",
+
+          "text": "Get 4 kills with one use of Death blossom"
+
+        }
+      ]
+    },
+    {
+      "name": "Sojorn",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/sojourn/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a53bf7ad9d2f33aaf9199a00989f86d4ba1f67c281ba550312c7d96e70fec4ea.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7e903d13474df377216191c5b5c128fc6d20befdc611af9f7baedfdfa3b59295.png",
+
+          "text": "Get 6 Disruptor shot kills in one game"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/83bd9d101e779075fadaed194d1964897794c49ce56c59ccc34799753b55efeb.png",
+
+          "text": "Get 3 kills with one use of Overclock"
+
+        }
+      ]
+    },
+    {
+      "name": "Soldier :76",
+      "role": "DPS",
+      "link": "",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/20b4ef00ed05d6dba75df228241ed528df7b6c9556f04c8070bad1e2f89e0ff5.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aaadd3dee89ac8797ecb7a1e647f574a034b1930726296fd17946d343254bdf0.png",
+
+          "text": "Get 4 kills with one use of Tactical Visor"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aaadd3dee89ac8797ecb7a1e647f574a034b1930726296fd17946d343254bdf0.png",
+
+          "text": "Accumulate 1k+ Healing in one game"
+
+        }
+      ]
+    },
+    {
+      "name": "Sombra",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/sombra/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/bca8532688f01b071806063b9472f1c0f9fc9c7948e6b59e210006e69cec9022.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3ebcefc44a278d93afa8339e7e8758e6d471566fdd122d20d9b8ab7269a12017.png",
+
+          "text": "Hack 7 poeple without dying"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6104a559ac558db8f7356a10b419d1330e98758ba9f8099666d694c088c64265.png",
+
+          "text": "Negate 1 ultimate with Hack/EMP"
+
+        }
+      ]
+    },
+    {
+      "name": "Symettra",
+      "role": "DPS",
+      "link": "",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7f2024c5387c9d76d944a5db021c2774d1e9d7cbf39e9b6a35b364d38ea250ac.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6ca1ad903ec0121026994bd2318dd5f2488ba40e5dbf5bdb2d5fad8474359253.png",
+
+          "text": "Get 5 Sentry Turret kills without dying"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/13b45663f441144ded977e8ccf9ed180c213176206a9f6f9e189e29f09a03b64.png",
+
+          "text": "Teleport 10 players in one game"
+
+        }
+      ]
+    },
+    {
+      "name": "Torbjörn",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/torbjorn/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/1309ab1add1cc19189a2c8bc7b1471f88efa1073e9705d2397fdb37d45707d01.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8bd2b7524b29cbe97cbc99b8df6faff559aae4cb9053ca6f7ae5bf86fa5ec711.png",
+
+          "text": "Get 3 kills with Forge hammer"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/640e2363d97cfe133716bb2811d5dedb18faddb50ebbf77c415163ea50e87b41.png",
+
+          "text": "Get 3 kills with one use of Molten core"
+
+        }
+      ]
+    },
+    {
+      "name": "Tracer",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/tracer/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a66413200e934da19540afac965cfe8a2de4ada593d9a52d53108bb28e8bbc9c.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/383e9b039efb93da77bb91fbeb3654ef50724e0cea0de76b2cc1c4db43de9a6d.png",
+
+          "text": "Get 2 kills with one use of Pulse bomb"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/30939502a8576da1fdcad8c7d21881e32066fb28847fc7df874b1436689e3425.png",
+
+          "text": "Get 7 low health recalls without dying"
+
+        }
+      ]
+    },
+    {
+      "name": "Venture",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/venture/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/5d87623006ccc77578396831d4629f91b5162235a553b3f442e1a43161898e94.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2ad4581a6801402aaa413301fdf851d1b4d09d67e1ef2a4538baf52ea0a5a889.png",
+
+          "text": "Get 3 kills with Drill Dash without dying"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/210991b74451a635e28e53da0fcfdfe2a0600c0845392db627e8829ecca7149e.png",
+
+          "text": "Get 3 kills with Tectonic shock"
+
+        }
+      ]
+    },
+    {
+      "name": "Widowmaker",
+      "role": "DPS",
+      "link": "https://overwatch.blizzard.com/en-us/heroes/widowmaker/",
+      "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a714f1cb33cc91c6b5b3e89ffe7e325b99e7c89cc8e8feced594f81305147efe.png",
+      "challanges": [
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b7783e8f83afc45dac37b80d0801a5b8200727e3dde299510d2f1886e0c7237b.png",
+
+          "text": "Get 3 kills while Infra-sight is active"
+
+        },
+        {
+          "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/82bb61b02224901170d8dc2fae143e695649cdfd7f5173a0e63a7742fd45bd84.png",
+
+          "text": "Get 2 kills with Venom mine without dying"
+
+        }
+      ]
     }
   ]
 }
