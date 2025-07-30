@@ -9,12 +9,12 @@
       "challanges": [
         {
           "icon":"https://workshop.codes/assets/abilities/50/defense-matrix-0ed6fd68ffded690a6804a2c63bfa43ea393dd1eaf2f91aafcf5ddcec87a2469.png",
-          "text":"Negate 1 ultimate with Defense Matrix"
+          "text":"Negate 1 ultimate with Defense Matrix or Knock somebody off the map"
         },
 
         {
           "icon":"https://workshop.codes/assets/abilities/50/self-destruct-9e57bdc7abb806c1f9be9d4de088cb271e290e355c82c7e725d1c76a58057875.png",
-          "text":"Get a 4 kills with one use of Self-Destruct"
+          "text":"Get a 3 kills with one use of Self-Destruct"
         }
       ]
     },
@@ -47,7 +47,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/spike-guard-5309142623f6a242def5e594c8c80e694af291951baf9aada4ddba3e205cb426.png",
 
-          "text": "Get 2 kills with Spike Guard"
+          "text": "Get 2 kills with Spike Guard without dying"
 
         },
         {
@@ -67,7 +67,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/carnage-143c811ac47f05b47ea76df27dbf518bceb8ac80aed7586db6f88a10c8274d54.png",
 
-          "text": "Get 5 Carnage kills without dying"
+          "text": "Get 3 Carnage kills without dying"
 
         },
         {
@@ -87,7 +87,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/cage-fight-07d56dd4234e8adad05bebda5973ac87ca87f79de8df8c6d1507bfbe35880d50.png",
 
-          "text": "Trap 4 people in one use of Cage Fight"
+          "text": "Get 6 Cage fight kills in one game"
 
         },
         {
@@ -127,13 +127,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/ravenous-vortex-e0d7f28a75b016cedc8b678424c1244f6df6df703a2f354fcc87f466d00a9252.png",
 
-          "text": "Get 4 Ravenous Vortex Kills"
+          "text": "Get 4 Ravenous Vortex Kills without dying"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/nemesis-form-b9195a33bb29a63a39d73f543eaa673ba7d88db01fd35d9790192263f6e1d8ca.png",
 
-          "text": "Get 12 Pummel kills without dying"
+          "text": "Get 6 Pummel kills without dying"
 
         }
       ]
@@ -247,7 +247,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/graviton-surge-ae61df2baf6266144e871fadf7d379e6559196e893a22409b8335f41daeaf72f.png",
 
-          "text": "Capture 4 people with one use of Graviton Surge"
+          "text": "Keep an energy average of 50%+"
 
         },
         {
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "name": "Baptist",
+      "name": "Baptiste",
       "role": "support",
       "link": "https://overwatch.blizzard.com/en-us/heroes/baptiste/",
       "icon": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/overwatch-2/b/bf/Baptiste_Icon_Classic.png?width=325",
@@ -287,13 +287,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/immortality-field-7dc26800549a3ede9616afffd1174936b3f17d070af4089db3232754de0a588d.png",
 
-          "text": "save 3 people with one use of immortality Feild"
+          "text": "save 2 people with one use of immortality Feild"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/amplification-matrix-7ced3f27f1bac838f466bc522d711321768aaa6d4446a2506f1c3de5cc742dda.png",
 
-          "text": "4 kills/assists with one use of Amplification Matrix"
+          "text": "2 kills/assists with one use of Amplification Matrix"
 
         }
       ]
@@ -307,7 +307,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/rally-4adaa01a166f618932e61ff0a9ab271c4f635e6812b1a0292ddb551c383795cc.png",
 
-          "text": "Negate 1 ultimate with Rally"
+          "text": "Negate 1 ultimate with Rally or knock someone off the map"
 
         },
         {
@@ -347,7 +347,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/orbital-ray-c49cc9060d39721a76bc25e2d29b56bcf8938d9bae85d150763548cf840a1795.png ",
 
-          "text": "4 assists with one use of Orbital ray"
+          "text": "3 assists with one use of Orbital ray"
 
         },
         {
@@ -373,7 +373,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/kitsune-rush-8c559f9d28375123ed1eefef1651cbec6fccbf6bc8d6edb47c801ce22aa23199.png",
 
-          "text": "4 kills/assists with one use of Kitsune Rush"
+          "text": "3 kills/assists with one use of Kitsune Rush"
 
         }
       ]
@@ -413,7 +413,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/sound-barrier-e8d73565cc21a9e60ec094036be44ef856018e340b0aacfdb87109aa32fcedfe.png",
 
-          "text": "affect 12 allies with Sound Barrier"
+          "text": "affect 8 allies with Sound Barrier"
 
         }
       ]
@@ -433,7 +433,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/resurrect-ad162b91241dbf5a07ce8eb973a6046fbe14d78e2d30469c19327579a64ca2cb.png",
 
-          "text": "Resurrect 4 allies without dying"
+          "text": "Resurrect 3 allies without dying"
 
         }
       ]
@@ -447,7 +447,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/coalescence-b2cdecbc490c441c787bc3f35af16d28ef2fced31924b83b52a9b28dbfe97ec5.png",
 
-          "text": "Get 3 Jump kills with one use of Coalescence"
+          "text": "Get 3 kills with one use of Coalescence"
 
         },
         {
@@ -467,7 +467,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/snap-kick-ef609f90f8bef183a7c69e38a389f20d5a290d4b576715e39d353b018f7c27b1.png",
 
-          "text": "Get 3 Snap Kicks kills without dying"
+          "text": "Get 3 Snap Kicks kills without dying or knock someone off the map"
 
         },
         {
@@ -513,7 +513,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/configuration-artillery-a6fef172b263c55a5cab90012e04b99f36c5e28fd72a479c02a714890836f906.png",
 
-          "text": "Get 3 kills with one use of Configuration: Artilery"
+          "text": "Get 2 kills with one use of Configuration: Artilery"
 
         }
       ]
@@ -527,7 +527,7 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/magnetic-grenade-d7059c68023ba821d396f02866ece63dca0967a4c285dcc95849dd356835f4db.png",
 
-          "text": "Get 3 kills with Flash grenade without dying"
+          "text": "Get 3 Critical shot kills without dying"
 
         },
         {
@@ -547,13 +547,13 @@
         {
           "icon": "https://workshop.codes/assets/abilities/50/duplicate-e0aa5c87fcdeeb3d543b3121ffcf999662040a65aa6c33554d187944f6148726.png",
 
-          "text": "Ult as the hero you used Duplicate one"
+          "text": "Ult as the hero you used Duplicated"
 
         },
         {
           "icon": "https://workshop.codes/assets/abilities/50/focusing-beam-9d42b381af2e16528aef5199fbbc5349f7131b2191b9e8818def8d9668495165.png",
 
-          "text": "Get 4 solo kills"
+          "text": "Get 3 Focus beam kills without dying"
 
         }
       ]
@@ -592,7 +592,7 @@
         },
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a6639d5240b77967a734fc5e2af960fd38dccd834430a4a3409add345bb7e21e.png",
-          "text": "Get 5 Swift strike skills without dying"
+          "text": "Get 3 Swift strike skills without dying"
 
         }
       ]
@@ -612,7 +612,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/92c56621ba267d94f16baacda3f10ba7777b475935981b02e5026449d8e3d79c.png",
 
-          "text": "Get 5 kills with Storm arrows without dying"
+          "text": "Get 3 kills with Storm arrows without dying"
 
         }
       ]
@@ -646,7 +646,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3fb870976b613ebbec89c714027fbaec55d9f3d83e5e5b10def45330183f26c2.png",
 
-          "text": "Catch 4 poeple in one use of Blizzard"
+          "text": "Get 3 kills with one use of Blizzard"
 
         },
         {
@@ -672,7 +672,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/0708775beda1d200b586ae1d019522ea5ad8baa9bdcbbe076854102830f9fdae.png",
 
-          "text": "Get 4 kills with one use of Barrage"
+          "text": "Get 3 kills with one use of Barrage"
 
         }
       ]
@@ -692,7 +692,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e35595575880a304e14d427a0f9f5f04dc0886ba0f4cadd731ac935174f031e2.png",
 
-          "text": "Get 4 kills with one use of Death blossom"
+          "text": "Get 3 kills with one use of Death blossom"
 
         }
       ]
@@ -726,13 +726,13 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aaadd3dee89ac8797ecb7a1e647f574a034b1930726296fd17946d343254bdf0.png",
 
-          "text": "Get 4 kills with one use of Tactical Visor"
+          "text": "Get 3 kills with one use of Tactical Visor"
 
         },
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aaadd3dee89ac8797ecb7a1e647f574a034b1930726296fd17946d343254bdf0.png",
 
-          "text": "Accumulate 1k+ Healing in one game"
+          "text": "Accumulate 2k+ Healing in one game"
 
         }
       ]
@@ -746,7 +746,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3ebcefc44a278d93afa8339e7e8758e6d471566fdd122d20d9b8ab7269a12017.png",
 
-          "text": "Hack 7 poeple without dying"
+          "text": "Hack 6 poeple without dying"
 
         },
         {
@@ -846,7 +846,7 @@
         {
           "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/b7783e8f83afc45dac37b80d0801a5b8200727e3dde299510d2f1886e0c7237b.png",
 
-          "text": "Get 3 kills while Infra-sight is active"
+          "text": "Get 2 kills while Infra-sight is active"
 
         },
         {
